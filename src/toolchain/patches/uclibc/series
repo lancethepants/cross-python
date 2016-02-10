@@ -1,0 +1,5 @@
+001-uclibc-ldso-search-path.patch
+002-uclibc-ldconfig-opt.patch
+003-uclibc-dl-defs.patch
+004-uclibc-ldd-opt.patch
+005-uclibc-ldd-static.patch
